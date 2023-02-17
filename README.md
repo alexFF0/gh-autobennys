@@ -1,5 +1,6 @@
 # gh-benny
-Radial Menu Benny Repair made for Gabz Hub
+[![MasterHead](https://cdn.discordapp.com/attachments/1009569570782195732/1076111898468171827/rainbow-loading-bar.gif)](https://google.com/)
+- Radial Menu Benny Repair made for Gabz Hub
 
 ## Info
 **[edited qb-radialmenu](https://github.com/jay-fivem/qb-radialmenu)**
